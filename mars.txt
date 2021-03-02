@@ -1,5 +1,10 @@
 Cold and dry, but everything is my favourite colour
 the two moons might be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
+<<<<<<< HEAD
 
 This line 5 changed by Ruth
+||||||| merged common ancestors
+=======
+This line added to Wolfman's copy
+>>>>>>> 7fe8c3ade645278160084298e5a8e4bd9bda0fa6
